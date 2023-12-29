@@ -14,7 +14,7 @@ Paper information available here: [summary]().
 ## Version 1.0
 
 ### Update 2023-12-29
-- Uploaded Earthquake dataset and Asttronomical observatories and telescopes location.
+- Uploaded earthquake dataset and location of astronomical observatories and telescopes.
 
 ## Files in this repository:
 
