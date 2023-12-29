@@ -18,7 +18,7 @@ Paper information available here: [summary]().
 
 ## Files in this repository:
 
-- **Telescopes.csv**: contains telescopes indexes, observary names, latitude, and longitude. Extracted from Google maps.
+- **Telescopes.csv**: contains observatory names, telescope index with its latitude and longitude. Extracted from Google maps.
 
 - **Earthquake.csv**: contains historical earthquakes registered in the entire Chilean territory between 1960 and 2023 (with a magnitude greater than or equal to 4.5), extracted from [USGS.gov](https://www.usgs.gov/).
 
