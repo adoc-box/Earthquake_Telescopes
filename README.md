@@ -7,7 +7,7 @@ This repository has the supplemental materials for the article
 
 *Reliability of industrial-scale telescopes in the event of seismic failures*
 
-by [Anthony D. Cho](), [Esnil Guevara](), and [Dora Jiménez]().
+by [Anthony D. Cho](https://www.researchgate.net/profile/Anthony-Cho-Lo), [Dora Jiménez](https://www.researchgate.net/profile/Dora-Jimenez-Alvarez), and [Esnil Guevara](https://www.researchgate.net/profile/Esnil-Guevara-3).
 
 Paper information available here: [summary]().
 
